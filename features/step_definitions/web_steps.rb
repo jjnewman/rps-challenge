@@ -39,7 +39,7 @@ When(/^press submit$/) do
 end
 
 When(/^I see the radio button selectors$/) do
-    expect(page).to have_content("Rock")
+  expect(page).to have_content("Rock")
 end
 
 Then(/^I should be able to submit it$/) do
@@ -53,18 +53,3 @@ end
 When(/^pressed submit$/) do
   click_on("submit")
 end
-
-Then(/^the other player \(computer\) should be given a random symbol$/) do
-  
-end
-
-When(/^both players have selected a symbol$/) do
- 
-end
-
-Then(/^the winner of the game should be declared$/) do
- 
-end
-
-
-
