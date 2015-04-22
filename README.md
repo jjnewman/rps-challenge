@@ -1,5 +1,14 @@
 # Challenge: Rōnin Badge Test
 
+-----------------------------------
+## Post-completion comments
+- The one-player version was straightforward and a nice refresher of the previous days' work.
+- The two-player mode was really tricky without databases and I (like most of the rest of the class!) failed to get it working properly using sessions. We were grateful to be introduced to databases in the following week and could really appreciate the benefits!
+- We hadn't been introduced to CSS at this stage so the styling is rather primitive/non-existent!
+
+
+------------------------------------
+
 Knowing how to build web applications is getting us almost there as web developers!
 
 The Makers Academy Marketing Array ( **MAMA** ) have asked us to provide a game for them. Their daily grind is pretty tough and they need time to steam a little.
