@@ -3,7 +3,7 @@
 -----------------------------------
 ## Post-completion comments
 - The one-player version was straightforward and a nice refresher of the previous days' work.
-- The two-player mode was really tricky without databases and I (like most of the rest of the class!) failed to get it working properly using sessions. We were grateful to be introduced to databases in the following week and could really appreciate the benefits!
+- The two-player mode was really tricky without databases and I (like most of the rest of the class!) failed to get it working properly using sessions. The code is also quite messy now as a consequence (e.g. server.rb). We were grateful to be introduced to databases in the following week and could really appreciate the benefits!
 - We hadn't been introduced to CSS at this stage so the styling is rather primitive/non-existent!
 
 
